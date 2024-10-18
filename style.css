@@ -5,7 +5,7 @@
 
 body{
     /*background-color: a cor que combinar mais na hora, imagino q preto/#000;
-    o efeito de borrar fica com aquela borda branca por causa disso*/
+    o efeito de borrar fica esbranquiçado por causa da cor de fundo branca*/
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
